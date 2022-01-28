@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satish980&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish980&theme=tokyonight)
-
+<!-- 
 ## Readme Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satish980&repo=github-readme-stats)](https://github.com/satish980)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satish980&repo=github-readme-stats)](https://github.com/satish980) -->
 

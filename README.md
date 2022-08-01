@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on reactjs
-- 🌱 I’m currently exploring reactjs
+- 🌱 I’m currently exploring frontend development
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love playing Blur
 <!-- - 📫 How to reach me: ... -->

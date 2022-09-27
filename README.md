@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## 🏆 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satish980&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish980&hide=jupyternotebook&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish980&hide=jupyter%20notebook,makefile,html&theme=tokyonight&layout=compact)
 <!-- 
 ## Readme Stats
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satish980&repo=github-readme-stats)](https://github.com/satish980) -->

@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 </p>
 <br />
 
-## 🏆 My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satish980&show_icons=true&theme=tokyonight)
+<!-- ## 🏆 My Github Stats
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satish980&show_icons=true&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish980&hide=jupyter%20notebook,makefile,html&theme=tokyonight&layout=compact)
 <!-- 
 ## Readme Stats

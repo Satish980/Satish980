@@ -1,5 +1,5 @@
 # Hi 👋
-## I'm Satish Kumar
+## I'm Satish Kumar Inumarthi
 
 I am a web and tech enthusiast.
 

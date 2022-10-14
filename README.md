@@ -5,7 +5,7 @@ I am a web and tech enthusiast.
 
 - LinkedIn: [Satish Kumar Inumarthi](https://www.linkedin.com/in/satishkumar-inumarthi/)
 - Mail: [isatishkumar4008@gmail.com](mailto:isatishkumar4008@gmail.com)
-- Portfolio-website: [satish-kumar.com](https://satish980.github.io/Advanced-Portfolio)
+- Portfolio-website: [satish-kumar.com](https://satish980.github.io/)
 
 <!-- ### Hi there 👋 I'm <a href="https://satish980.github.io/Advanced-Portfolio/">Satish Kumar</a>
 ![](https://visitor-badge.laobi.icu/badge?page_id=Satish980)

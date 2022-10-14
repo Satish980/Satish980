@@ -1,4 +1,4 @@
-# Hi 👋
+# Hola 👋
 ## I'm Satish Kumar Inumarthi
 
 I am a web and tech enthusiast.
